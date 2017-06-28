@@ -13,3 +13,9 @@ Flickr has thousands of [equirectangular photos](https://www.flickr.com/search/?
 You can also create your own photospheres with the Google Street View app for [Android](https://play.google.com/store/apps/details?id=com.google.android.street&hl=en) or [iPhone](https://itunes.apple.com/us/app/photo-sphere-camera/id904418768?mt=8). Capture a 360 photo and reference it in your project folder.
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/360-viewer)
+
+## Let's take it up a notch: 360 Gallery
+
+Now that you can create a basic 360 viewer, let's create something more interacive: a 360 image gallery that will allow the user to select different photospheres and change their enviornment. 
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/360-gallery)
