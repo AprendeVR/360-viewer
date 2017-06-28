@@ -10,4 +10,6 @@ Flickr has thousands of [equirectangular photos](https://www.flickr.com/search/?
 
 ## Create Your Own
 
-You can also create your own photospheres with the Google Street View app for [Android](https://play.google.com/store/apps/details?id=com.google.android.street&hl=en) or [iPhone](https://itunes.apple.com/us/app/photo-sphere-camera/id904418768?mt=8). Take a 360 panaroma
+You can also create your own photospheres with the Google Street View app for [Android](https://play.google.com/store/apps/details?id=com.google.android.street&hl=en) or [iPhone](https://itunes.apple.com/us/app/photo-sphere-camera/id904418768?mt=8). Capture a 360 photo and reference it in your project folder.
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/360-viewer)
