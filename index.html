@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>360&deg; Image Viewer</title>
+    <meta name="description" content="360&deg; Image Viewer - A-Frame">
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      
+      <!-- Add all photospheres here -->
+      <a-assets>
+        <img id="mars" src="https://cdn.glitch.com/b562abb7-aa78-4a75-8b0b-143cd1ea9cf3%2Fmars.jpg?1498643267293" />
+        <img id="forest" src="https://cdn.glitch.com/b562abb7-aa78-4a75-8b0b-143cd1ea9cf3%2Fforest.jpg?1498645108611" />
+        <img id="nyc" src="https://cdn.glitch.com/b562abb7-aa78-4a75-8b0b-143cd1ea9cf3%2Ftimes-square.jpg?1498645111152" />
+        <img id="beach" src="https://cdn.glitch.com/b562abb7-aa78-4a75-8b0b-143cd1ea9cf3%2Frocky-beach.jpg?1498645115601" />
+      </a-assets>
+
+      <!-- Insert 360 image id here -->
+      <a-sky src="#mars"></a-sky>
+
+    </a-scene>
+  </body>
+</html>
